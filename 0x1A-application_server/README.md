@@ -1,4 +1,4 @@
-0x1A. Application server
+
 ========================
 
 DevOps
@@ -212,7 +212,7 @@ File: 3-app_server-nginx_config
 mandatory
 Let’s serve what you built for AirBnB clone v3 - RESTful API on web-01.
 
-Requirements:
+equirements:
 
 Git clone your AirBnB_clone_v3
 Setup Nginx so that the route /api/ points to a Gunicorn instance listening on port 5002
@@ -343,4 +343,4 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x1A-application_server
 File: 4-reload_gunicorn_no_downtime
    
-Copyright © 2023 ALX, All rights reserved.
+
